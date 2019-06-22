@@ -1,0 +1,1 @@
+This is a list of fun and interesting activites in San Diego. The link provided next to the description opens the location in Google Maps. Access the list by cloning the repository, then starting up a server and connecting to the local host.
